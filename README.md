@@ -1,8 +1,8 @@
-# Friend.Share 🤝💰
+# Morph.Share 🤝💰
 
 **Smart group payments & events with DeFi simplicity, AI-driven automation, and social coordination**
 
-Friend.Share is a revolutionary dApp that combines blockchain technology, artificial intelligence, and social features to make group payments and event management seamless and enjoyable.
+Morph.Share is a revolutionary dApp that combines blockchain technology, artificial intelligence, and social features to make group payments and event management seamless and enjoyable.
 
 ## 🌟 Features
 
@@ -243,11 +243,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Built with ❤️ by the Friend.Share team
+- Built with ❤️ by the Morph.Share team
 - Powered by Ethereum and the broader Web3 ecosystem
 - Inspired by the need for better group financial coordination
 - Supported by our amazing community of users and contributors
 
 ---
 
-**Friend.Share** - Making group finances simple, smart, and social. 🌟
+**Morph.Share** - Making group finances simple, smart, and social. 🌟

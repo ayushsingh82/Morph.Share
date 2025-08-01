@@ -1,6 +1,6 @@
-# Friend.Share Smart Contracts
+# Morph.Share Smart Contracts
 
-This directory contains the smart contracts for the Friend.Share platform, which enables group payments, event management, and fund coordination.
+This directory contains the smart contracts for the Morph.Share platform, which enables group payments, event management, and fund coordination.
 
 ## Contracts Overview
 

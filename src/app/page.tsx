@@ -151,7 +151,7 @@ export default function Home() {
 
         <div className="container mx-auto px-4 relative z-20">
           <h2 className="text-4xl md:text-5xl font-bold text-center mb-16 bg-gradient-to-r from-yellow-300 via-white to-yellow-300 bg-clip-text text-transparent animate-gradient">
-            Why Choose Friend.Share
+            Why Choose Morph.Share
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
             <div className="bg-white/10 backdrop-blur-sm p-8 rounded-xl border border-white/20 text-white transform hover:scale-105 transition-all">
@@ -251,7 +251,7 @@ export default function Home() {
             Ready to Share & Save?
           </h2>
           <p className="text-xl md:text-2xl text-white/90 mb-12 max-w-2xl mx-auto">
-            Join thousands of users who are already pooling money, splitting costs, and funding causes with Friend.Share
+            Join thousands of users who are already pooling money, splitting costs, and funding causes with Morph.Share
           </p>
           <button className="px-12 py-5 bg-white text-[#8B5CF6] rounded-full font-bold text-xl hover:bg-white/90 transition-colors transform hover:scale-105 shadow-lg">
             Start Your Group Today

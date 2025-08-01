@@ -47,7 +47,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-12 pt-8 border-t border-white/20 text-center text-white/90">
-          <p>&copy; 2024 Friend.Share. All rights reserved.</p>
+          <p>&copy; 2024 Morph.Share. All rights reserved.</p>
         </div>
       </div>
     </footer>

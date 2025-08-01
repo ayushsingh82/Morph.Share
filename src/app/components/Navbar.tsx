@@ -18,7 +18,7 @@ const Navbar = () => {
         {/* Left: Logo */}
         <div className="flex-1 flex items-center">
           <Link href="/" className="text-white text-2xl font-bold hover:text-yellow-300 transition-colors">
-            Friend.Share
+            Morph.Share
           </Link>
         </div>
    
