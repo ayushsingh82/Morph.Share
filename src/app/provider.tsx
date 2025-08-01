@@ -4,13 +4,13 @@ import { WagmiProvider } from 'wagmi';
 import { RainbowKitProvider, getDefaultConfig } from '@rainbow-me/rainbowkit';
 import { QueryClientProvider, QueryClient } from '@tanstack/react-query';
 import {
-  bscTestnet
+  morphHolesky
 } from 'wagmi/chains';
 
 const config = getDefaultConfig({
   appName: 'My RainbowKit App',
   projectId: 'YOUR_PROJECT_ID', // <-- Replace with your actual project ID
-  chains: [bscTestnet],
+  chains: [morphHolesky],
   ssr: true,
 });
 

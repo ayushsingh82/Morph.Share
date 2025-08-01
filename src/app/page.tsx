@@ -37,7 +37,7 @@ export default function Home() {
               textShadow: '-4px 4px 0 #ffffff',
               WebkitTextStroke: '2px #ffffff'
             }}>
-              Friend.
+              Morph.
               <span className="text-yellow-500">Share</span>
             </h1>
             <p className="text-xl md:text-2xl text-white font-bold max-w-3xl mx-auto">
