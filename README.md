@@ -51,9 +51,9 @@ Morph.Share is a revolutionary dApp that combines blockchain technology, artific
 
 ### Testnet Explorer Link
 
-- https://testnet.bscscan.com/address/0x5CB5cF00d90c1894E10921845a2A8C07E7d6FF97
+Event - https://explorer-holesky.morphl2.io/tx/0x3a8affd62b3b1b6b48a24c3c426cfd46e0ed7e548ee0039826c334a0d9afe0bd
 
-- https://testnet.bscscan.com/address/0xbC0B8C43E3F1a425D8916f3F86b7d108BC954dcd
+Contract - https://testnet.bscscan.com/address/0xbC0B8C43E3F1a425D8916f3F86b7d108BC954dcd
 
 ## 🚀 Getting Started
 
