@@ -38,7 +38,7 @@ Morph.Share is a revolutionary dApp that combines blockchain technology, artific
 ### Tech Stack
 - **Frontend**: Next.js 15 with React 19
 - **Styling**: Tailwind CSS 4
-- **Blockchain**: BSC Testnet with Viem and Wagmi
+- **Blockchain**: Morph Testnet with Viem and Wagmi
 - **Wallet Integration**: RainbowKit
 - **State Management**: TanStack Query
 - **Language**: TypeScript
@@ -53,7 +53,7 @@ Morph.Share is a revolutionary dApp that combines blockchain technology, artific
 
 Event - https://explorer-holesky.morphl2.io/tx/0x3a8affd62b3b1b6b48a24c3c426cfd46e0ed7e548ee0039826c334a0d9afe0bd
 
-Contract - https://testnet.bscscan.com/address/0xbC0B8C43E3F1a425D8916f3F86b7d108BC954dcd
+Contract - https://explorer-holesky.morphl2.io/tx/0x66f43e3868c42149a3db6d8764c9cd2ee27dca31ad58d58962b1ae4aab3f71ac
 
 ## 🚀 Getting Started
 
