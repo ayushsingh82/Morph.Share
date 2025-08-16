@@ -379,7 +379,7 @@ const EventsPage = () => {
                 {/* Amount Input */}
                 <div>
                   <label className="block text-sm font-bold text-green-700 mb-2 uppercase tracking-wide">
-                    Amount (BNB) *
+                    Amount (ETH) *
                   </label>
                   <input
                     type="number"

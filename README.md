@@ -105,7 +105,7 @@ npm start
 4. Fill in group details:
    - Group name
    - Group description
-   - Total amount (in BNB)
+   - Total amount (in ETH)
    - Add recipient wallet addresses
 5. Click "CREATE GROUP" to deploy on-chain
 

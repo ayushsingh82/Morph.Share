@@ -138,7 +138,7 @@ const GroupPage = () => {
       const combinedGroups = names.map((name, index) => ({
         name,
         description: descriptions[index],
-        totalAmount: Number(totalAmounts[index]) / 1e18, // Convert to BNB here
+        totalAmount: Number(totalAmounts[index]) / 1e18, // Convert to ETH here
         recipients: allRecipients[index] || [],
         creator: creators[index] || 'Unknown',
         groupIndex: index
@@ -176,15 +176,15 @@ const GroupPage = () => {
       console.log('Raw total amount:', groupDetails[2]);
       console.log('Converted total amount:', Number(groupDetails[2]) / 1e18);
       
-      // Ensure totalAmount is properly converted from wei to BNB
+      // Ensure totalAmount is properly converted from wei to ETH
       const totalAmountInBNB = Number(groupDetails[2]) / 1e18;
-      console.log('Final total amount in BNB:', totalAmountInBNB);
+      console.log('Final total amount in ETH:', totalAmountInBNB);
       
       const detailedGroup = {
         ...group,
         name: groupDetails[0],
         description: groupDetails[1],
-        totalAmount: totalAmountInBNB, // Convert to BNB
+        totalAmount: totalAmountInBNB, // Convert to ETH
         recipients: groupDetails[3] || []
       };
       
@@ -471,7 +471,7 @@ const GroupPage = () => {
               {/* Shared Amount */}
               <div>
                 <label className="block text-sm font-bold text-green-700 mb-2 uppercase tracking-wide">
-                  Amount (BNB) *
+                  Amount (ETH) *
                 </label>
                 <input
                   type="number"
@@ -695,7 +695,7 @@ const GroupPage = () => {
                           : Number(selectedGroup.totalAmount).toFixed(2)
                         )
                       : '0.00'
-                    } BNB
+                    } ETH
                   </span>
                 </div>
               </div>
